@@ -242,3 +242,4 @@ EX.2.2 : MULTIPLE BRANCH
  - 2.2.7 ODs pull the rebased DEV branch on their local repo and sync with their remote repos
  - 2.2.8 --**CHECK**-- if all repos have the branch DEV rebased with the OD changes
 
+EXERCISE_END
