@@ -27,5 +27,7 @@ b = 5
 
 #2.1.10 Tl and OD change the same line on local repos
 c = plus.operation(a,b)
+
+d = 7
  
 print("RESULT = "+str(c)) 
