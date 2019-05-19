@@ -21,7 +21,7 @@ print("PYTHON VERSION : " +str(sys.version_info[:3]))
 print("Calculator software")
 
 #2.1.14 OD change the same line, commit and push on their remote repos
-a = 4
+a = 8
 
 b = 5
 
